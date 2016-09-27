@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/theme_grey_light</color>
+    <color name="colorPrimaryDark">@color/sk_grey_dark</color>
+    <color name="colorAccent">@color/sk_blue</color>
+
+    <color name="startup_background">#e0e0e0</color>
+    <color name="sk_blue">#7dc5d3</color>
+    <color name="sk_grey_dark">#56565b</color>
+    <color name="theme_grey_light">#797980</color>
+</resources>

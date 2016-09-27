@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoveTaskToBack Example</string>
+    <string name="behavior_prompt">What behavior should be executed when back is pressed?</string>
+    <string name="super_onbackpressed">super.onBackPressed</string>
+    <string name="manually_finish">manually finish</string>
+    <string name="movetasktoback">moveTaskToBack</string>
+    <string name="parameter_prompt">Allow nonroot for moveTaskToBack?</string>
+    <string name="startup_prompt">Startup next time with alternate root \nactivity for this application\'s task?</string>
+</resources>
